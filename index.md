@@ -1,6 +1,6 @@
 ## Welcome to the project's website!
 
-We are a project that seeks to analyze through a Stock-Flow consistent model the vulnerabilities of Colombian economy in a low-carbon transition.
+We are a project that seeks to analyze through a Stock-Flow consistent model the vulnerabilities of Colombian economy in the context of a global low-carbon transition and climate change.
 
 ### Institutions
 
