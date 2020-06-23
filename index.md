@@ -4,10 +4,7 @@ We are a project that seeks to analyze through a Stock-Flow consistent model the
 
 ### Institutions
 
-French Agency for Development
-Ministry of Finance and Public Credit (Colombia)
-National Planning Department (Colombia)
-National University of Colombia
+French Agency for Development, Ministry of Finance and Public Credit (Colombia), National Planning Department (Colombia) and National University of Colombia
 
 ### Contact
 
